@@ -34,3 +34,8 @@ alert( result );
 
 ### English 
 **A2**
+___
+
+
+### About me
+Sociable, active, ready to get new knowledges  and skills.
